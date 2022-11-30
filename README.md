@@ -1,7 +1,7 @@
 ### Hi, I'm Brandon 👋   
 
 I'm a full stack developer with an insatiable drive to learn, improve, and create.
-Currently continuing to level up my skills as a full stack software engineer 🤓
+
 
 Hit me up! Send me a message 📧 or add me on LinkedIn. 
 
